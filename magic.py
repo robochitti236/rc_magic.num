@@ -51,7 +51,7 @@ def main():
     print("do you remember the digit i told you begining?")
     print(number)
 
-    print("do you wanna play try again? y/n")
+    print("do you wanna try again? y/n")
     restart=input()
     if restart == "y":
         main()
